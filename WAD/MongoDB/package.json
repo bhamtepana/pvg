@@ -7,7 +7,7 @@
     "start": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Raj Pawar",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
@@ -17,6 +17,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rajPawarRmp/WAD-Practicles.git"
+    "url": ""
 }
 }

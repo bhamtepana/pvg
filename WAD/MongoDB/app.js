@@ -1,6 +1,6 @@
 const express=require('express')
 const mongoose=require('mongoose')
-const url='mongodb://127.0.0.1:27017/rajDB'
+const url='mongodb://127.0.0.1:27017/pvgDB'
 // mongodb://localhost:27017
 const user=require('./models.js')
 
